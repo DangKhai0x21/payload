@@ -1,1 +1,1 @@
-<h1><font color=blue>hellox worldss</h1>
+<BODY ONLOAD=alert('hellox worldss')>
