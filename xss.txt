@@ -1,2 +1,1 @@
-<script>alert("hellox worldss");</script>
-javascript:alert("hellox worldss")
+<script>alert("hellox worldss")</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
